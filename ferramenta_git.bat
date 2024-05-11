@@ -5,10 +5,8 @@ clear
 echo "Status do repositório Git:"
 git status
 
-# Adiciona todos os arquivos ao staging
 git add .
 
-# Limpa a tela
 clear
 
 echo "Adicionando arquivos..."
