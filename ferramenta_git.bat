@@ -12,8 +12,7 @@ echo "Escreva a mensagem de commit:"
 read commit_message
 
 git commit -m "$commit_message"
-
-clear
+pause
 
 echo "Status do repositório Git após o commit:"
 git status
